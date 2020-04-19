@@ -1,2 +1,2 @@
 # sveltemesteren
-Sveltemesteren - Multilikasjonsspill
+Sveltemesteren - Multiplikasjonsspill
